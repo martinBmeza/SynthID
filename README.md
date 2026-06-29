@@ -1,4 +1,4 @@
-# ElevenLabs Prosody Dataset
+# Synthetic Intonation Dataset (SynthID)
 
 Generates an English speech dataset for prosody studies: for each sentence, **three intonations**
 (statement `.`, question `?`, exclamation `!`) are synthesized across multiple voices, where the
