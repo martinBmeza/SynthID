@@ -1,0 +1,16 @@
+elevenlabs
+pandas
+numpy
+python-dotenv
+tqdm
+librosa
+soundfile
+opensmile
+scikit-learn
+seaborn
+matplotlib
+scipy
+openai-whisper
+jiwer
+ipython
+jupyter
